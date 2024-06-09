@@ -20,6 +20,8 @@ object Util {
             null
         }
     }
+
+    // Code from chat GPT for resize the image quality and convert to base64 string
     fun fileToBase64(context: Context, uri: Uri): String? {
         return try {
             // Load the image
