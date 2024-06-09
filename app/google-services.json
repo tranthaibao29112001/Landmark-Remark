@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536126789165",
+    "project_id": "fir-mapnoteproject",
+    "storage_bucket": "fir-mapnoteproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536126789165:android:bebbb7ef9f78f94cbd8aa4",
+        "android_client_info": {
+          "package_name": "com.example.mapnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANRb2k7u87BxV6X9mB2xvZ1FF-X6JSLsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

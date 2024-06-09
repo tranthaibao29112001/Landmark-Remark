@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MapNote</string>
+    <string name="create_note">Create Note</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="map_notes">Map Notes</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="save_note">Save Note</string>
+    <string name="clear_search">clear search</string>
+    <string name="add_image">Add Image</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Dont have account</string>
+    <string name="name">Name</string>
+    <string name="signup">Sign Up</string>
+    <string name="already_have_account">Already have account</string>
+</resources>
