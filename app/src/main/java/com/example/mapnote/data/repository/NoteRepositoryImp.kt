@@ -1,7 +1,6 @@
-package com.example.firebasewithmvvm.data.repository
+package com.example.mapnote.data.repository
 
 import com.example.mapnote.data.model.Note
-import com.example.mapnote.data.repository.NoteRepository
 import com.example.mapnote.util.Constants
 import com.google.firebase.firestore.FirebaseFirestore
 

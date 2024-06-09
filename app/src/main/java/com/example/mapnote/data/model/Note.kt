@@ -2,12 +2,10 @@ package com.example.mapnote.data.model
 
 import android.os.Parcelable
 import androidx.room.Entity
-import com.google.firebase.firestore.ServerTimestamp
 import java.util.Date
 import kotlinx.parcelize.Parcelize
 import java.text.SimpleDateFormat
-import java.time.LocalDateTime
-import java.time.format.DateTimeFormatter
+
 
 @Entity
 @Parcelize

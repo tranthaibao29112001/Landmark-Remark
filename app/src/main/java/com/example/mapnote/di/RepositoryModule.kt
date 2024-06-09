@@ -1,7 +1,7 @@
 package com.example.mapnote.di
 
-import com.example.firebasewithmvvm.data.repository.NoteRepositoryImp
 import com.example.mapnote.data.repository.NoteRepository
+import com.example.mapnote.data.repository.NoteRepositoryImp
 import com.google.firebase.firestore.FirebaseFirestore
 import dagger.Module
 import dagger.Provides
